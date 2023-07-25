@@ -1,0 +1,9 @@
+{
+    "TokenExpiration": "+ 1 hour",
+    "ExtendTokenExpiration": "+ 30 minutes",
+    "SysName": "PR-PO issuance monitoring system",
+    "SysEmail": "ciis.zcmc@gmail.com",
+    "SysEmailToken": "1//0els2OK2gcEelCgYIARAAGA4SNwF-L9IrfC4_fYAhk929w78LJjLqkp7XrhsQDgItOIwQO97dR39a-dQ6NTKDM7szR3GInop8OUQ",
+    "clientID": "4077232619-h4cg0d2vefa5c3254f2qci7ua7jsa055.apps.googleusercontent.com",
+    "clientSecret": "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"
+}
